@@ -1,2 +1,1 @@
-# CLIP-S
-Contrastive pre-training of speech and transcripts, in the style of CLIP
+This repo has been replaced with another here https://github.com/cfoster0/CLAP
